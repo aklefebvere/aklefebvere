@@ -1,6 +1,6 @@
 <h1 align="center"> Hello there, Welcome to my Github Profile! 👋 </h1>
 
-I am a data scientist with an intrest in all things data! I also have an interest in data engineering. I enjoy creating machine learning models, cleaning and analysing data, and creating data pipelines using RESTful API's. 
+I am a data scientist with an interest in all things data! I also have an interest in data engineering. I enjoy creating machine learning models, cleaning and analysing data, and creating data pipelines using RESTful API's. If you would like to know more about me, be sure to check out my Linkedin profile or my Portfolio about me page.
 
 - 📊 I'm interested in all things data: 
   - Data science
