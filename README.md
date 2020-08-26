@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there and welcome to my Github profile! 👋 </h1>
+<h1 align="center"> Hello there, Welcome to my Github Profile! 👋 </h1>
 
 I am a data scientist with an intrest in all things data! I also have an interest in data engineering. I enjoy creating machine learning models, cleaning and analysing data, and creating data pipelines using RESTful API's. 
 
